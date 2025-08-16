@@ -9,8 +9,8 @@ vidas = 3
 numero_sorteado = random.randint(1, 15)
 print(numero_sorteado)
 
-# 
 
+# %%
 
 # %%
 for i in range(3, 0, -1):
@@ -23,3 +23,4 @@ for i in range(3, 0, -1):
         print(f"Tente novamente! Voce tem {i} vidas!")
         
 print("Obrigado por jogar")
+# %%
