@@ -1,0 +1,62 @@
+[
+    {
+        "cep": "02423-030",
+        "logradouro": "Rua Marques",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Jardim Carlu",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "01519-000",
+        "logradouro": "Rua do Lavapés",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Cambuci",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3550308",
+        "gia": "1004",
+        "ddd": "11",
+        "siafi": "7107"
+    },
+    {
+        "cep": "21870-370",
+        "logradouro": "Rua Matriz de Camaragipe",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Bangu",
+        "localidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "estado": "Rio de Janeiro",
+        "regiao": "Sudeste",
+        "ibge": "3304557",
+        "gia": "",
+        "ddd": "21",
+        "siafi": "6001"
+    },
+    {
+        "cep": "58038-200",
+        "logradouro": "Rua Waldir Belo Rabelo Pessoa da Costa",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Manaíra",
+        "localidade": "João Pessoa",
+        "uf": "PB",
+        "estado": "Paraíba",
+        "regiao": "Nordeste",
+        "ibge": "2507507",
+        "gia": "",
+        "ddd": "83",
+        "siafi": "2051"
+    }
+]
