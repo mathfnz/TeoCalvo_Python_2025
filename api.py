@@ -3,6 +3,7 @@
 import requests # para realizar requisicoes na web
 import json # para tratar json de list/dict para arquivos
 from tqdm import tqdm
+import pandas as pd
 
 # %% pegando os urls
 ceps: list = [
@@ -22,8 +23,11 @@ for cep in tqdm(ceps):
         dados.append(resposta.json())
         
 # %%
-dados
+dados # lista de dicionarios com informacao no cep
 
+# %%
+dataset = pd.DataFrame(dados)
+dataset.to_csv("ceps.csv", sep=";")
 # %%
 # salvamos essas informacoes em um arquivo para 
 with open("ceps.json", "w", encoding="UTF-8") as open_file:
