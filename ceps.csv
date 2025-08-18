@@ -1,0 +1,5 @@
+;cep;logradouro;complemento;unidade;bairro;localidade;uf;estado;regiao;ibge;gia;ddd;siafi
+0;02423-030;Rua Marques;;;Jardim Carlu;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+1;01519-000;Rua do Lavapés;;;Cambuci;São Paulo;SP;São Paulo;Sudeste;3550308;1004;11;7107
+2;21870-370;Rua Matriz de Camaragipe;;;Bangu;Rio de Janeiro;RJ;Rio de Janeiro;Sudeste;3304557;;21;6001
+3;58038-200;Rua Waldir Belo Rabelo Pessoa da Costa;;;Manaíra;João Pessoa;PB;Paraíba;Nordeste;2507507;;83;2051
